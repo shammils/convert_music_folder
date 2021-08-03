@@ -1,0 +1,15 @@
+{
+  "name": "convert_music_folder",
+  "version": "0.0.0",
+  "description": "Mirror all music in one folder into destination folder as lossy format(OGG)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skyler Hamilton",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "klaw": "^3.0.0"
+  }
+}
